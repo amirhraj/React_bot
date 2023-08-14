@@ -1,0 +1,39 @@
+.chat-container {
+  overflow-y: scroll;
+  height: 500px; 
+  width: 500px;
+  border: 1px solid blue;
+  border-radius: 5%;
+ 
+}
+
+.backmessage  {
+
+  margin-top: 5px;
+  margin-bottom: 0;
+  background-color: #007bff; 
+  border-radius: 5%;
+  width: 50%;
+  color: white;
+  border-color: #007bff;
+  margin-left: 5px;
+}
+
+
+.options{
+  margin-top: 400px;
+ 
+
+}
+.input{
+ 
+  margin-top: 20px;
+  margin-top: auto;
+  width: 470px;
+
+}
+input{
+ 
+  border: 1px solid blue;
+  border-radius: 5%;
+}
